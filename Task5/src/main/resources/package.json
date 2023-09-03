@@ -1,0 +1,11 @@
+{
+  "name": "Abi Joel",
+  "age": 30,
+  "email": "johndoe@example.com",
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "country": "USA"
+  },
+  "interests": ["programming", "reading", "music"]
+}
